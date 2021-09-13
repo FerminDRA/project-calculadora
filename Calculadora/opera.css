@@ -3,6 +3,19 @@
 body{
 	background: #b81d1d;
 	padding: 3em;
-	font-family: 'Raleway', 'Broadway';
+	font-family: 'Raleway', 'Arial';
 	color: #fff;
+}
+
+button {
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:8px;
+	border:2px solid #29178f;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: Times New Roman;
+	font-size:16px;
+	padding:4px 8px;
+	text-shadow:0px 2px 0px #000000;
 }
